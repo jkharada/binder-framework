@@ -1,0 +1,13 @@
+font.size: 14.0
+figure.figsize: 5.0,5.0
+axes.autolimit_mode: "round_numbers"
+xtick.direction: "in"
+ytick.direction: "in"
+xtick.major.size: 8
+xtick.minor.size: 4
+ytick.major.size: 8
+ytick.minor.size: 4
+legend.frameon: False
+axes.xmargin: 0
+axes.ymargin: 0
+
